@@ -1,0 +1,64 @@
+{
+	"users": {
+		"372336475": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 1
+		},
+		"434952286": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"468375091": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"469821364": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"513114502": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"524047709": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"533014954": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"540396093": {
+			"admin_level": 1,
+			"ban": false,
+			"warn": 1
+		},
+		"553731492": {
+			"admin_level": 3,
+			"ban": false,
+			"warn": 0
+		},
+		"670455336": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"670606131": {
+			"admin_level": 0,
+			"ban": false,
+			"warn": 0
+		},
+		"undefined": {
+			"admin_level": 1,
+			"ban": false,
+			"warn": 0
+		}
+	}
+}
